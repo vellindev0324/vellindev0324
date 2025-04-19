@@ -64,7 +64,7 @@ I'm a passionate and results-driven Software Engineer with a strong background i
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINK/)
 - 🌐 [Portfolio](https://YOUR-PERSONAL-WEBSITE.com)
-- ✉️ [Email](mailto:guilherme.silva06200@gmail.com)
+- ✉️ [Email](mailto:bielzinpirocudo78@gmail.com)
 
 ---
 
