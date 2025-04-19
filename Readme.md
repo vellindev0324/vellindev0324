@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] — Full-Stack & Blockchain Developer
+# 👋 Hi, I'm Vellin — Full-Stack & Blockchain Developer
 
 ### 🚀 8+ Years of Experience in Web & Blockchain Engineering
 
@@ -33,9 +33,9 @@ I'm a passionate and results-driven Software Engineer with a strong background i
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vellindev0324&show_icons=true&theme=react&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vellindev0324&layout=compact&theme=react)
 
 ---
 
@@ -43,7 +43,7 @@ I'm a passionate and results-driven Software Engineer with a strong background i
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINK/)
 - 🌐 [Portfolio](https://YOUR-PERSONAL-WEBSITE.com)
-- ✉️ Email: your.email@example.com
+- ✉️ [Email](mailto:guilherme.silva06200@gmail.com)
 
 ---
 
