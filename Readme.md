@@ -8,7 +8,7 @@ I'm a passionate and results-driven Software Engineer with a strong background i
 ## 💼 Career
 
 ### 🔹 Lead Full-Stack & Blockchain Developer – **BlockNova Technologies**  
-**Jul 2020 – Present | Remote**  
+**Jul 2020 – Nov 2024 | Remote**  
 - Spearheaded the architecture and development of NFT marketplaces and DeFi platforms.  
 - Built and audited smart contracts using Solidity, integrated with frontend via wagmi and ethers.js.  
 - Deployed scalable full-stack applications using Next.js, Node.js, and MongoDB.  
