@@ -62,7 +62,7 @@ I'm a passionate and results-driven Software Engineer with a strong background i
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINK/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-nogueira-7801b1360/)
 - 🌐 [Portfolio](https://YOUR-PERSONAL-WEBSITE.com)
 - ✉️ [Email](mailto:bielzinpirocudo78@gmail.com)
 
