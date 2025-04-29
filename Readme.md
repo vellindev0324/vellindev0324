@@ -76,7 +76,8 @@ I'm a passionate and results-driven Software Engineer with a strong background i
 
 ---
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=vellindev0324&style=flat-square&left_color=blue&right_color=yellow) 
+<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=vellindev0324&style=flat-square&left_color=green&right_color=yellow)  -->
+![Visitors](https://komarev.com/ghpvc/?username=vellindev0324&color=green)
 
 ---
 
