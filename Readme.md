@@ -94,5 +94,8 @@ I'm a passionate and results-driven Software Engineer with a strong background i
 </div>
 
 ---
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername&style=flat-square&left_color=blue&right_color=yellow) ![Profile views](https://img.shields.io/badge/Profile%20views-12345-blue)
+
+---
 
 _Thanks for visiting my profile! Let’s build something great together 🚀_
