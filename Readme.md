@@ -87,4 +87,12 @@ I'm a passionate and results-driven Software Engineer with a strong background i
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vellindev0324&theme=algolia&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
+</div>
+
+---
+
 _Thanks for visiting my profile! Let’s build something great together 🚀_
