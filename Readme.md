@@ -4,26 +4,7 @@
 
 I'm a passionate and results-driven Software Engineer with a strong background in full-stack web development and blockchain technologies. I specialize in building modern, scalable applications with JavaScript/TypeScript-based stacks and crafting secure, efficient smart contracts on Ethereum and other blockchain platforms.
 
----
-## 💼 Career
 
-### 🔹 Lead Full-Stack & Blockchain Developer – **BlockNova Technologies**  
-**Jul 2020 – Nov 2024 | Remote**  
-- Spearheaded the architecture and development of NFT marketplaces and DeFi platforms.  
-- Built and audited smart contracts using Solidity, integrated with frontend via wagmi and ethers.js.  
-- Deployed scalable full-stack applications using Next.js, Node.js, and MongoDB.  
-- Collaborated with product teams to define features and improve UI/UX with React.js and TailwindCSS.  
-- Worked with Web3 protocols including IPFS, The Graph, and Chainlink.
-
-### 🔹 Full-Stack Web Developer – **HexaDev Studio**  
-**Mar 2017 – Jun 2020 | Remote**  
-- Developed and maintained dynamic web apps using Angular, Express.js, and PostgreSQL.  
-- Led frontend modernization efforts, migrating legacy code to modern JavaScript/TypeScript stacks.  
-- Integrated REST APIs and optimized performance for enterprise-level clients.  
-- Contributed to DevOps pipelines and CI/CD processes using GitHub Actions and Docker.
-
-
----
 
 ## 🛠 Tech Stack
 
@@ -92,6 +73,9 @@ I'm a passionate and results-driven Software Engineer with a strong background i
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vellindev0324&theme=algolia&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
 </div>
+
+---
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername&style=flat-square&left_color=blue&right_color=yellow) ![Profile views](https://img.shields.io/badge/Profile%20views-12345-blue)
 
 ---
 
