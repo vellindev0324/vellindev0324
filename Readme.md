@@ -68,4 +68,15 @@ I'm a passionate and results-driven Software Engineer with a strong background i
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vellindev0324&theme=algolia&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
+</div>
+
+---
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername&style=flat-square&left_color=blue&right_color=yellow) ![Profile views](https://img.shields.io/badge/Profile%20views-12345-blue)
+
+---
+
 _Thanks for visiting my profile! Let’s build something great together 🚀_
